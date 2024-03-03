@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlanarPhysicsEngine", "FinalPhysicsEngine\PlanarPhysicsEngine.csproj", "{F4A8A972-E313-47D5-BE81-BBBDCAA240F5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlanerPhysicsTester", "RentoidPhysicsTester\PlanerPhysicsTester.csproj", "{6F271F4B-2E4F-4D0D-93A6-F3F9EDB73FF2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flat", "D:\Downloads\Flat-main\Flat-main\Flat.csproj", "{B56F6EA8-584F-47B9-AD37-B62D296936AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4A8A972-E313-47D5-BE81-BBBDCAA240F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4A8A972-E313-47D5-BE81-BBBDCAA240F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4A8A972-E313-47D5-BE81-BBBDCAA240F5}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F4A8A972-E313-47D5-BE81-BBBDCAA240F5}.Debug|x64.Build.0 = Debug|Any CPU
+		{F4A8A972-E313-47D5-BE81-BBBDCAA240F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4A8A972-E313-47D5-BE81-BBBDCAA240F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4A8A972-E313-47D5-BE81-BBBDCAA240F5}.Release|x64.ActiveCfg = Release|Any CPU
+		{F4A8A972-E313-47D5-BE81-BBBDCAA240F5}.Release|x64.Build.0 = Release|Any CPU
+		{6F271F4B-2E4F-4D0D-93A6-F3F9EDB73FF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F271F4B-2E4F-4D0D-93A6-F3F9EDB73FF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F271F4B-2E4F-4D0D-93A6-F3F9EDB73FF2}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6F271F4B-2E4F-4D0D-93A6-F3F9EDB73FF2}.Debug|x64.Build.0 = Debug|Any CPU
+		{6F271F4B-2E4F-4D0D-93A6-F3F9EDB73FF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F271F4B-2E4F-4D0D-93A6-F3F9EDB73FF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F271F4B-2E4F-4D0D-93A6-F3F9EDB73FF2}.Release|x64.ActiveCfg = Release|Any CPU
+		{6F271F4B-2E4F-4D0D-93A6-F3F9EDB73FF2}.Release|x64.Build.0 = Release|Any CPU
+		{B56F6EA8-584F-47B9-AD37-B62D296936AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B56F6EA8-584F-47B9-AD37-B62D296936AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B56F6EA8-584F-47B9-AD37-B62D296936AA}.Debug|x64.ActiveCfg = Debug|x64
+		{B56F6EA8-584F-47B9-AD37-B62D296936AA}.Debug|x64.Build.0 = Debug|x64
+		{B56F6EA8-584F-47B9-AD37-B62D296936AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B56F6EA8-584F-47B9-AD37-B62D296936AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B56F6EA8-584F-47B9-AD37-B62D296936AA}.Release|x64.ActiveCfg = Release|x64
+		{B56F6EA8-584F-47B9-AD37-B62D296936AA}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65FA357C-F694-465A-87BC-EB3A8759DD36}
+	EndGlobalSection
+EndGlobal
